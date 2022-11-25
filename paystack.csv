@@ -1,0 +1,1001 @@
+transaction_id,transaction_status,payment_currency,card_country_code,Transaction_detail
+1,failed,USD,US,"Dollar transactions with foreign card"
+2,success,NGN,NG,"Naira transactions with Naira card"
+3,abandoned,NGN,NULL,NULL
+4,success,NGN,NG,"Naira transactions with Naira card"
+5,abandoned,NGN,NG,"Naira transactions with Naira card"
+6,abandoned,NGN,NULL,NULL
+7,success,NGN,NG,"Naira transactions with Naira card"
+8,abandoned,USD,NULL,NULL
+9,abandoned,NGN,NULL,NULL
+10,abandoned,NGN,NULL,NULL
+11,success,NGN,NG,"Naira transactions with Naira card"
+12,failed,USD,US,"Dollar transactions with foreign card"
+13,abandoned,NGN,NG,"Naira transactions with Naira card"
+14,success,NGN,NG,"Naira transactions with Naira card"
+15,abandoned,NGN,NG,"Naira transactions with Naira card"
+16,success,NGN,NG,"Naira transactions with Naira card"
+17,abandoned,NGN,NULL,NULL
+18,abandoned,NGN,NULL,NULL
+19,abandoned,USD,US,"Dollar transactions with foreign card"
+20,failed,USD,US,"Dollar transactions with foreign card"
+21,success,NGN,US,"Naira transactions with foreign card"
+22,failed,NGN,GB,"Naira transactions with foreign card"
+23,abandoned,NGN,NULL,NULL
+24,abandoned,NGN,GH,"Naira transactions with foreign card"
+25,failed,NGN,GB,"Naira transactions with foreign card"
+26,success,NGN,NG,"Naira transactions with Naira card"
+27,failed,NGN,NG,"Naira transactions with Naira card"
+28,failed,NGN,NULL,NULL
+29,failed,NGN,NG,"Naira transactions with Naira card"
+30,abandoned,USD,NULL,NULL
+31,abandoned,USD,US,"Dollar transactions with foreign card"
+32,success,NGN,NG,"Naira transactions with Naira card"
+33,abandoned,USD,NULL,NULL
+34,success,NGN,NG,"Naira transactions with Naira card"
+35,abandoned,NGN,NULL,NULL
+36,failed,NGN,NG,"Naira transactions with Naira card"
+37,abandoned,USD,NULL,NULL
+38,abandoned,NGN,NULL,NULL
+39,success,USD,ZA,"Dollar transactions with foreign card"
+40,success,NGN,NG,"Naira transactions with Naira card"
+41,abandoned,NGN,NG,"Naira transactions with Naira card"
+42,abandoned,NGN,NULL,NULL
+43,abandoned,NGN,NULL,NULL
+44,success,NGN,NG,"Naira transactions with Naira card"
+45,abandoned,NGN,NULL,NULL
+46,abandoned,NGN,NULL,NULL
+47,abandoned,NGN,NULL,NULL
+48,success,NGN,GB,"Naira transactions with foreign card"
+49,abandoned,NGN,NULL,NULL
+50,failed,NGN,NG,"Naira transactions with Naira card"
+51,success,NGN,NG,"Naira transactions with Naira card"
+52,abandoned,NGN,NULL,NULL
+53,success,NGN,GB,"Naira transactions with foreign card"
+54,abandoned,NGN,NULL,NULL
+55,abandoned,NGN,NULL,NULL
+56,success,NGN,NG,"Naira transactions with Naira card"
+57,success,NGN,NG,"Naira transactions with Naira card"
+58,abandoned,NGN,NULL,NULL
+59,success,NGN,NG,"Naira transactions with Naira card"
+60,success,USD,GB,"Dollar transactions with foreign card"
+61,success,NGN,NG,"Naira transactions with Naira card"
+62,success,NGN,NG,"Naira transactions with Naira card"
+63,abandoned,USD,US,"Dollar transactions with foreign card"
+64,abandoned,NGN,NULL,NULL
+65,success,NGN,NG,"Naira transactions with Naira card"
+66,abandoned,USD,NULL,NULL
+67,success,NGN,NULL,NULL
+68,abandoned,NGN,NULL,NULL
+69,abandoned,NGN,NULL,NULL
+70,success,NGN,NG,"Naira transactions with Naira card"
+71,abandoned,NGN,NULL,NULL
+72,abandoned,USD,NULL,NULL
+73,abandoned,NGN,NULL,NULL
+74,abandoned,NGN,NULL,NULL
+75,success,NGN,NG,"Naira transactions with Naira card"
+76,abandoned,NGN,NULL,NULL
+77,failed,NGN,NG,"Naira transactions with Naira card"
+78,success,NGN,NG,"Naira transactions with Naira card"
+79,abandoned,NGN,NULL,NULL
+80,success,NGN,NG,"Naira transactions with Naira card"
+81,success,NGN,NG,"Naira transactions with Naira card"
+82,abandoned,NGN,NULL,NULL
+83,success,USD,US,"Dollar transactions with foreign card"
+84,success,NGN,NG,"Naira transactions with Naira card"
+85,success,NGN,NG,"Naira transactions with Naira card"
+86,abandoned,NGN,NULL,NULL
+87,success,NGN,NG,"Naira transactions with Naira card"
+88,failed,NGN,US,"Naira transactions with foreign card"
+89,success,USD,US,"Dollar transactions with foreign card"
+90,abandoned,NGN,NULL,NULL
+91,abandoned,NGN,NULL,NULL
+92,success,NGN,NG,"Naira transactions with Naira card"
+93,abandoned,NGN,NULL,NULL
+94,abandoned,NGN,NULL,NULL
+95,success,NGN,NG,"Naira transactions with Naira card"
+96,abandoned,USD,NULL,NULL
+97,success,NGN,NG,"Naira transactions with Naira card"
+98,failed,NGN,NG,"Naira transactions with Naira card"
+99,abandoned,NGN,NULL,NULL
+100,abandoned,USD,NULL,NULL
+101,failed,NGN,NG,"Naira transactions with Naira card"
+102,abandoned,NGN,NULL,NULL
+103,success,NGN,GB,"Naira transactions with foreign card"
+104,success,USD,US,"Dollar transactions with foreign card"
+105,abandoned,NGN,NULL,NULL
+106,success,USD,NULL,NULL
+107,abandoned,NGN,NULL,NULL
+108,success,NGN,GB,"Naira transactions with foreign card"
+109,abandoned,NGN,NULL,NULL
+110,abandoned,NGN,NULL,NULL
+111,abandoned,USD,NULL,NULL
+112,abandoned,NGN,NULL,NULL
+113,success,NGN,NG,"Naira transactions with Naira card"
+114,abandoned,NGN,NULL,NULL
+115,abandoned,NGN,NULL,NULL
+116,success,NGN,NG,"Naira transactions with Naira card"
+117,abandoned,NGN,NULL,NULL
+118,abandoned,USD,NULL,NULL
+119,abandoned,NGN,NULL,NULL
+120,success,NGN,NG,"Naira transactions with Naira card"
+121,abandoned,NGN,NULL,NULL
+122,abandoned,NGN,NULL,NULL
+123,success,NGN,NG,"Naira transactions with Naira card"
+124,success,NGN,NG,"Naira transactions with Naira card"
+125,success,NGN,NG,"Naira transactions with Naira card"
+126,success,NGN,NG,"Naira transactions with Naira card"
+127,abandoned,USD,IT,"Dollar transactions with foreign card"
+128,abandoned,USD,NULL,NULL
+129,success,NGN,NG,"Naira transactions with Naira card"
+130,success,NGN,US,"Naira transactions with foreign card"
+131,success,NGN,NG,"Naira transactions with Naira card"
+132,failed,NGN,NG,"Naira transactions with Naira card"
+133,failed,NGN,NG,"Naira transactions with Naira card"
+134,abandoned,NGN,NULL,NULL
+135,success,NGN,NG,"Naira transactions with Naira card"
+136,success,NGN,NG,"Naira transactions with Naira card"
+137,failed,USD,US,"Dollar transactions with foreign card"
+138,abandoned,NGN,NULL,NULL
+139,success,NGN,NG,"Naira transactions with Naira card"
+140,success,NGN,NG,"Naira transactions with Naira card"
+141,success,NGN,NG,"Naira transactions with Naira card"
+142,success,NGN,NG,"Naira transactions with Naira card"
+143,abandoned,USD,NULL,NULL
+144,abandoned,NGN,NULL,NULL
+145,failed,USD,US,"Dollar transactions with foreign card"
+146,reversed,NGN,NG,"Naira transactions with Naira card"
+147,success,NGN,NG,"Naira transactions with Naira card"
+148,abandoned,USD,NULL,NULL
+149,abandoned,NGN,NG,"Naira transactions with Naira card"
+150,success,NGN,NG,"Naira transactions with Naira card"
+151,failed,NGN,NG,"Naira transactions with Naira card"
+152,success,NGN,NG,"Naira transactions with Naira card"
+153,abandoned,USD,NULL,NULL
+154,success,NGN,NG,"Naira transactions with Naira card"
+155,abandoned,NGN,NULL,NULL
+156,failed,NGN,NG,"Naira transactions with Naira card"
+157,success,NGN,NG,"Naira transactions with Naira card"
+158,success,NGN,NG,"Naira transactions with Naira card"
+159,abandoned,NGN,NG,"Naira transactions with Naira card"
+160,success,NGN,US,"Naira transactions with foreign card"
+161,abandoned,NGN,NULL,NULL
+162,success,NGN,NG,"Naira transactions with Naira card"
+163,success,USD,GB,"Dollar transactions with foreign card"
+164,abandoned,NGN,NULL,NULL
+165,abandoned,NGN,NULL,NULL
+166,success,NGN,NG,"Naira transactions with Naira card"
+167,abandoned,USD,NULL,NULL
+168,abandoned,NGN,NULL,NULL
+169,abandoned,NGN,NULL,NULL
+170,failed,NGN,NG,"Naira transactions with Naira card"
+171,success,NGN,NG,"Naira transactions with Naira card"
+172,abandoned,NGN,NULL,NULL
+173,success,NGN,NG,"Naira transactions with Naira card"
+174,success,NGN,NG,"Naira transactions with Naira card"
+175,failed,NGN,US,"Naira transactions with foreign card"
+176,abandoned,USD,NULL,NULL
+177,success,NGN,NG,"Naira transactions with Naira card"
+178,abandoned,NGN,NULL,NULL
+179,abandoned,NGN,NULL,NULL
+180,abandoned,USD,NULL,NULL
+181,success,NGN,NG,"Naira transactions with Naira card"
+182,failed,NGN,NG,"Naira transactions with Naira card"
+183,success,NGN,NG,"Naira transactions with Naira card"
+184,abandoned,NGN,NULL,NULL
+185,abandoned,USD,NULL,NULL
+186,abandoned,NGN,NULL,NULL
+187,success,NGN,NG,"Naira transactions with Naira card"
+188,abandoned,NGN,NULL,NULL
+189,abandoned,NGN,NULL,NULL
+190,failed,USD,US,"Dollar transactions with foreign card"
+191,abandoned,NGN,NULL,NULL
+192,abandoned,NGN,NULL,NULL
+193,success,NGN,NG,"Naira transactions with Naira card"
+194,success,NGN,NG,"Naira transactions with Naira card"
+195,abandoned,NGN,NULL,NULL
+196,success,NGN,NG,"Naira transactions with Naira card"
+197,failed,USD,NG,"Dollar transactions with Naira card"
+198,success,NGN,NG,"Naira transactions with Naira card"
+199,success,USD,IE,"Dollar transactions with foreign card"
+200,success,NGN,NG,"Naira transactions with Naira card"
+201,abandoned,NGN,NULL,NULL
+202,abandoned,NGN,NULL,NULL
+203,abandoned,USD,NULL,NULL
+204,abandoned,NGN,NULL,NULL
+205,failed,NGN,NG,"Naira transactions with Naira card"
+206,success,USD,NG,"Dollar transactions with Naira card"
+207,success,USD,ZA,"Dollar transactions with foreign card"
+208,abandoned,NGN,NULL,NULL
+209,success,NGN,NG,"Naira transactions with Naira card"
+210,abandoned,NGN,NULL,NULL
+211,abandoned,NGN,NULL,NULL
+212,success,NGN,NG,"Naira transactions with Naira card"
+213,success,NGN,NG,"Naira transactions with Naira card"
+214,abandoned,NGN,NULL,NULL
+215,failed,NGN,NG,"Naira transactions with Naira card"
+216,abandoned,NGN,NULL,NULL
+217,success,NGN,GB,"Naira transactions with foreign card"
+218,abandoned,NGN,NULL,NULL
+219,success,USD,US,"Dollar transactions with foreign card"
+220,success,NGN,NG,"Naira transactions with Naira card"
+221,abandoned,USD,US,"Dollar transactions with foreign card"
+222,success,NGN,NG,"Naira transactions with Naira card"
+223,success,NGN,NG,"Naira transactions with Naira card"
+224,failed,USD,US,"Dollar transactions with foreign card"
+225,abandoned,NGN,NULL,NULL
+226,success,NGN,NG,"Naira transactions with Naira card"
+227,failed,USD,US,"Dollar transactions with foreign card"
+228,abandoned,USD,NULL,NULL
+229,abandoned,NGN,NG,"Naira transactions with Naira card"
+230,success,NGN,NG,"Naira transactions with Naira card"
+231,abandoned,NGN,NULL,NULL
+232,failed,NGN,CA,"Naira transactions with foreign card"
+233,abandoned,NGN,NULL,NULL
+234,success,NGN,NG,"Naira transactions with Naira card"
+235,abandoned,NGN,NULL,NULL
+236,abandoned,NGN,NULL,NULL
+237,success,NGN,NG,"Naira transactions with Naira card"
+238,abandoned,NGN,US,"Naira transactions with foreign card"
+239,success,USD,GB,"Dollar transactions with foreign card"
+240,success,NGN,NG,"Naira transactions with Naira card"
+241,abandoned,USD,US,"Dollar transactions with foreign card"
+242,abandoned,NGN,NULL,NULL
+243,failed,NGN,NG,"Naira transactions with Naira card"
+244,failed,USD,US,"Dollar transactions with foreign card"
+245,abandoned,NGN,NG,"Naira transactions with Naira card"
+246,success,NGN,NG,"Naira transactions with Naira card"
+247,success,NGN,NG,"Naira transactions with Naira card"
+248,success,NGN,NG,"Naira transactions with Naira card"
+249,reversed,NGN,NG,"Naira transactions with Naira card"
+250,abandoned,NGN,NULL,NULL
+251,success,USD,CA,"Dollar transactions with foreign card"
+252,abandoned,NGN,NULL,NULL
+253,success,NGN,NG,"Naira transactions with Naira card"
+254,success,NGN,NG,"Naira transactions with Naira card"
+255,success,NGN,NG,"Naira transactions with Naira card"
+256,success,NGN,NG,"Naira transactions with Naira card"
+257,abandoned,USD,NULL,NULL
+258,failed,USD,GB,"Dollar transactions with foreign card"
+259,failed,NGN,NG,"Naira transactions with Naira card"
+260,success,NGN,NG,"Naira transactions with Naira card"
+261,abandoned,NGN,NULL,NULL
+262,abandoned,NGN,NULL,NULL
+263,abandoned,USD,NULL,NULL
+264,success,NGN,GB,"Naira transactions with foreign card"
+265,abandoned,NGN,NULL,NULL
+266,abandoned,NGN,NULL,NULL
+267,failed,NGN,NG,"Naira transactions with Naira card"
+268,success,NGN,NG,"Naira transactions with Naira card"
+269,abandoned,NGN,NULL,NULL
+270,abandoned,NGN,NULL,NULL
+271,success,USD,US,"Dollar transactions with foreign card"
+272,success,NGN,NG,"Naira transactions with Naira card"
+273,success,NGN,GB,"Naira transactions with foreign card"
+274,success,NGN,NG,"Naira transactions with Naira card"
+275,abandoned,NGN,NULL,NULL
+276,failed,NGN,NG,"Naira transactions with Naira card"
+277,success,NGN,NG,"Naira transactions with Naira card"
+278,success,NGN,NG,"Naira transactions with Naira card"
+279,abandoned,NGN,NULL,NULL
+280,abandoned,USD,NULL,NULL
+281,abandoned,NGN,NULL,NULL
+282,abandoned,NGN,NULL,NULL
+283,success,NGN,NG,"Naira transactions with Naira card"
+284,abandoned,NGN,NULL,NULL
+285,abandoned,NGN,NULL,NULL
+286,success,NGN,NG,"Naira transactions with Naira card"
+287,abandoned,USD,NULL,NULL
+288,abandoned,NGN,NULL,NULL
+289,abandoned,NGN,NG,"Naira transactions with Naira card"
+290,abandoned,NGN,NULL,NULL
+291,abandoned,USD,NULL,NULL
+292,success,NGN,NG,"Naira transactions with Naira card"
+293,abandoned,NGN,NULL,NULL
+294,abandoned,NGN,NG,"Naira transactions with Naira card"
+295,success,NGN,NG,"Naira transactions with Naira card"
+296,abandoned,NGN,NULL,NULL
+297,success,NGN,NG,"Naira transactions with Naira card"
+298,abandoned,NGN,NULL,NULL
+299,success,NGN,NG,"Naira transactions with Naira card"
+300,abandoned,NGN,NULL,NULL
+301,success,USD,GB,"Dollar transactions with foreign card"
+302,success,NGN,ZA,"Naira transactions with foreign card"
+303,success,NGN,NG,"Naira transactions with Naira card"
+304,abandoned,USD,NULL,NULL
+305,abandoned,NGN,NULL,NULL
+306,success,NGN,US,"Naira transactions with foreign card"
+307,success,USD,NULL,NULL
+308,failed,USD,US,"Dollar transactions with foreign card"
+309,success,NGN,NG,"Naira transactions with Naira card"
+310,abandoned,NGN,NULL,NULL
+311,success,NGN,NG,"Naira transactions with Naira card"
+312,success,NGN,NG,"Naira transactions with Naira card"
+313,success,NGN,NG,"Naira transactions with Naira card"
+314,failed,NGN,NG,"Naira transactions with Naira card"
+315,success,NGN,NG,"Naira transactions with Naira card"
+316,abandoned,NGN,NULL,NULL
+317,abandoned,NGN,NULL,NULL
+318,success,NGN,NG,"Naira transactions with Naira card"
+319,success,NGN,NG,"Naira transactions with Naira card"
+320,success,NGN,NG,"Naira transactions with Naira card"
+321,abandoned,NGN,NULL,NULL
+322,success,NGN,NG,"Naira transactions with Naira card"
+323,success,NGN,NG,"Naira transactions with Naira card"
+324,success,NGN,NG,"Naira transactions with Naira card"
+325,failed,NGN,NG,"Naira transactions with Naira card"
+326,success,NGN,NG,"Naira transactions with Naira card"
+327,abandoned,NGN,NULL,NULL
+328,success,NGN,NG,"Naira transactions with Naira card"
+329,abandoned,USD,NULL,NULL
+330,abandoned,NGN,NULL,NULL
+331,success,USD,US,"Dollar transactions with foreign card"
+332,abandoned,NGN,NULL,NULL
+333,failed,NGN,NG,"Naira transactions with Naira card"
+334,abandoned,NGN,NULL,NULL
+335,success,NGN,NG,"Naira transactions with Naira card"
+336,abandoned,NGN,NULL,NULL
+337,abandoned,NGN,NULL,NULL
+338,failed,USD,US,"Dollar transactions with foreign card"
+339,success,NGN,NG,"Naira transactions with Naira card"
+340,abandoned,NGN,NULL,NULL
+341,abandoned,NGN,NULL,NULL
+342,success,NGN,NG,"Naira transactions with Naira card"
+343,success,USD,US,"Dollar transactions with foreign card"
+344,success,NGN,NG,"Naira transactions with Naira card"
+345,success,NGN,NG,"Naira transactions with Naira card"
+346,success,NGN,NG,"Naira transactions with Naira card"
+347,abandoned,NGN,NULL,NULL
+348,abandoned,NGN,NULL,NULL
+349,abandoned,NGN,NULL,NULL
+350,abandoned,NGN,NULL,NULL
+351,abandoned,NGN,NULL,NULL
+352,abandoned,NGN,NULL,NULL
+353,success,NGN,NG,"Naira transactions with Naira card"
+354,abandoned,USD,NULL,NULL
+355,success,NGN,NG,"Naira transactions with Naira card"
+356,failed,NGN,NULL,NULL
+357,failed,NGN,BD,"Naira transactions with foreign card"
+358,success,USD,US,"Dollar transactions with foreign card"
+359,abandoned,NGN,NULL,NULL
+360,abandoned,NGN,NULL,NULL
+361,abandoned,NGN,NULL,NULL
+362,failed,USD,NULL,NULL
+363,success,NGN,NG,"Naira transactions with Naira card"
+364,success,NGN,NG,"Naira transactions with Naira card"
+365,success,NGN,NG,"Naira transactions with Naira card"
+366,abandoned,NGN,NULL,NULL
+367,abandoned,NGN,NULL,NULL
+368,success,NGN,NG,"Naira transactions with Naira card"
+369,failed,NGN,NG,"Naira transactions with Naira card"
+370,abandoned,NGN,NULL,NULL
+371,failed,NGN,GB,"Naira transactions with foreign card"
+372,abandoned,NGN,NULL,NULL
+373,success,NGN,NG,"Naira transactions with Naira card"
+374,success,NGN,NG,"Naira transactions with Naira card"
+375,abandoned,NGN,NULL,NULL
+376,failed,NGN,NG,"Naira transactions with Naira card"
+377,abandoned,USD,NULL,NULL
+378,abandoned,NGN,NG,"Naira transactions with Naira card"
+379,abandoned,USD,NULL,NULL
+380,abandoned,NGN,NULL,NULL
+381,success,NGN,NG,"Naira transactions with Naira card"
+382,success,NGN,NG,"Naira transactions with Naira card"
+383,success,NGN,NG,"Naira transactions with Naira card"
+384,success,NGN,NG,"Naira transactions with Naira card"
+385,abandoned,USD,NULL,NULL
+386,abandoned,NGN,NULL,NULL
+387,abandoned,NGN,NULL,NULL
+388,success,NGN,NG,"Naira transactions with Naira card"
+389,success,NGN,NG,"Naira transactions with Naira card"
+390,abandoned,USD,US,"Dollar transactions with foreign card"
+391,abandoned,NGN,NULL,NULL
+392,abandoned,NGN,NULL,NULL
+393,success,NGN,NG,"Naira transactions with Naira card"
+394,abandoned,NGN,NULL,NULL
+395,abandoned,NGN,NULL,NULL
+396,abandoned,USD,NULL,NULL
+397,success,USD,ZA,"Dollar transactions with foreign card"
+398,success,NGN,GB,"Naira transactions with foreign card"
+399,success,NGN,NG,"Naira transactions with Naira card"
+400,abandoned,NGN,NULL,NULL
+401,abandoned,NGN,NULL,NULL
+402,reversed,NGN,NG,"Naira transactions with Naira card"
+403,success,NGN,NG,"Naira transactions with Naira card"
+404,success,NGN,NG,"Naira transactions with Naira card"
+405,abandoned,NGN,NULL,NULL
+406,abandoned,NGN,NULL,NULL
+407,success,NGN,NG,"Naira transactions with Naira card"
+408,success,NGN,NG,"Naira transactions with Naira card"
+409,success,NGN,NG,"Naira transactions with Naira card"
+410,success,NGN,GB,"Naira transactions with foreign card"
+411,reversed,NGN,NG,"Naira transactions with Naira card"
+412,failed,NGN,CA,"Naira transactions with foreign card"
+413,success,NGN,NG,"Naira transactions with Naira card"
+414,failed,NGN,NG,"Naira transactions with Naira card"
+415,abandoned,NGN,NULL,NULL
+416,failed,NGN,NG,"Naira transactions with Naira card"
+417,abandoned,NGN,NULL,NULL
+418,success,NGN,NG,"Naira transactions with Naira card"
+419,abandoned,NGN,NULL,NULL
+420,success,NGN,NG,"Naira transactions with Naira card"
+421,abandoned,NGN,NULL,NULL
+422,abandoned,NGN,NULL,NULL
+423,success,NGN,NG,"Naira transactions with Naira card"
+424,abandoned,NGN,NULL,NULL
+425,failed,NGN,US,"Naira transactions with foreign card"
+426,failed,NGN,NULL,NULL
+427,success,NGN,NG,"Naira transactions with Naira card"
+428,abandoned,NGN,NULL,NULL
+429,abandoned,NGN,NULL,NULL
+430,success,NGN,NG,"Naira transactions with Naira card"
+431,success,NGN,NG,"Naira transactions with Naira card"
+432,success,NGN,NG,"Naira transactions with Naira card"
+433,success,NGN,NG,"Naira transactions with Naira card"
+434,abandoned,NGN,NULL,NULL
+435,success,NGN,NG,"Naira transactions with Naira card"
+436,success,USD,JP,"Dollar transactions with foreign card"
+437,success,NGN,NG,"Naira transactions with Naira card"
+438,abandoned,NGN,NULL,NULL
+439,abandoned,NGN,NULL,NULL
+440,abandoned,NGN,NULL,NULL
+441,abandoned,NGN,NULL,NULL
+442,success,NGN,NG,"Naira transactions with Naira card"
+443,success,NGN,NG,"Naira transactions with Naira card"
+444,abandoned,NGN,NULL,NULL
+445,abandoned,NGN,NULL,NULL
+446,success,NGN,NG,"Naira transactions with Naira card"
+447,abandoned,NGN,NULL,NULL
+448,abandoned,USD,NULL,NULL
+449,abandoned,NGN,NULL,NULL
+450,reversed,USD,GB,"Dollar transactions with foreign card"
+451,abandoned,NGN,NULL,NULL
+452,abandoned,USD,NULL,NULL
+453,success,NGN,NG,"Naira transactions with Naira card"
+454,abandoned,NGN,NULL,NULL
+455,abandoned,NGN,NULL,NULL
+456,abandoned,NGN,NULL,NULL
+457,abandoned,NGN,NULL,NULL
+458,success,NGN,NG,"Naira transactions with Naira card"
+459,failed,USD,US,"Dollar transactions with foreign card"
+460,success,USD,NULL,NULL
+461,abandoned,NGN,NULL,NULL
+462,abandoned,NGN,NULL,NULL
+463,abandoned,NGN,NULL,NULL
+464,abandoned,NGN,NULL,NULL
+465,failed,NGN,NG,"Naira transactions with Naira card"
+466,success,NGN,NG,"Naira transactions with Naira card"
+467,failed,NGN,US,"Naira transactions with foreign card"
+468,abandoned,USD,NULL,NULL
+469,abandoned,NGN,NULL,NULL
+470,success,NGN,NG,"Naira transactions with Naira card"
+471,success,NGN,NG,"Naira transactions with Naira card"
+472,abandoned,NGN,NULL,NULL
+473,abandoned,NGN,NULL,NULL
+474,abandoned,NGN,NULL,NULL
+475,abandoned,NGN,NULL,NULL
+476,failed,NGN,NG,"Naira transactions with Naira card"
+477,abandoned,USD,NULL,NULL
+478,success,NGN,NG,"Naira transactions with Naira card"
+479,success,USD,US,"Dollar transactions with foreign card"
+480,abandoned,NGN,NULL,NULL
+481,abandoned,NGN,NULL,NULL
+482,failed,NGN,NULL,NULL
+483,abandoned,NGN,NULL,NULL
+484,success,USD,NULL,NULL
+485,abandoned,NGN,NULL,NULL
+486,success,NGN,NG,"Naira transactions with Naira card"
+487,success,NGN,NG,"Naira transactions with Naira card"
+488,failed,NGN,NG,"Naira transactions with Naira card"
+489,abandoned,NGN,NULL,NULL
+490,abandoned,NGN,NULL,NULL
+491,success,NGN,NG,"Naira transactions with Naira card"
+492,failed,NGN,NULL,NULL
+493,abandoned,NGN,NG,"Naira transactions with Naira card"
+494,abandoned,USD,NULL,NULL
+495,success,NGN,NG,"Naira transactions with Naira card"
+496,abandoned,NGN,NULL,NULL
+497,failed,NGN,NG,"Naira transactions with Naira card"
+498,success,NGN,NG,"Naira transactions with Naira card"
+499,abandoned,NGN,NULL,NULL
+500,abandoned,NGN,NULL,NULL
+501,success,NGN,NG,"Naira transactions with Naira card"
+502,abandoned,NGN,NULL,NULL
+503,abandoned,NGN,NULL,NULL
+504,abandoned,NGN,NULL,NULL
+505,success,NGN,NG,"Naira transactions with Naira card"
+506,abandoned,USD,NULL,NULL
+507,abandoned,NGN,NULL,NULL
+508,failed,NGN,NG,"Naira transactions with Naira card"
+509,abandoned,USD,NULL,NULL
+510,success,NGN,NG,"Naira transactions with Naira card"
+511,abandoned,NGN,NULL,NULL
+512,success,NGN,NG,"Naira transactions with Naira card"
+513,abandoned,NGN,NULL,NULL
+514,failed,NGN,NG,"Naira transactions with Naira card"
+515,abandoned,NGN,NULL,NULL
+516,abandoned,NGN,NULL,NULL
+517,success,NGN,NG,"Naira transactions with Naira card"
+518,success,NGN,NG,"Naira transactions with Naira card"
+519,success,NGN,NG,"Naira transactions with Naira card"
+520,success,NGN,NG,"Naira transactions with Naira card"
+521,abandoned,NGN,NG,"Naira transactions with Naira card"
+522,failed,USD,US,"Dollar transactions with foreign card"
+523,success,NGN,NG,"Naira transactions with Naira card"
+524,abandoned,NGN,NULL,NULL
+525,success,NGN,NG,"Naira transactions with Naira card"
+526,success,NGN,NG,"Naira transactions with Naira card"
+527,success,NGN,NG,"Naira transactions with Naira card"
+528,abandoned,NGN,NULL,NULL
+529,success,NGN,NG,"Naira transactions with Naira card"
+530,abandoned,NGN,NULL,NULL
+531,abandoned,NGN,NULL,NULL
+532,abandoned,NGN,NG,"Naira transactions with Naira card"
+533,success,NGN,NG,"Naira transactions with Naira card"
+534,failed,USD,US,"Dollar transactions with foreign card"
+535,failed,NGN,NG,"Naira transactions with Naira card"
+536,success,USD,GB,"Dollar transactions with foreign card"
+537,abandoned,NGN,NULL,NULL
+538,failed,USD,US,"Dollar transactions with foreign card"
+539,success,NGN,NG,"Naira transactions with Naira card"
+540,success,NGN,NG,"Naira transactions with Naira card"
+541,abandoned,NGN,NULL,NULL
+542,abandoned,NGN,NULL,NULL
+543,success,NGN,NG,"Naira transactions with Naira card"
+544,success,NGN,NG,"Naira transactions with Naira card"
+545,abandoned,NGN,NULL,NULL
+546,reversed,NGN,NG,"Naira transactions with Naira card"
+547,abandoned,NGN,NULL,NULL
+548,success,NGN,NG,"Naira transactions with Naira card"
+549,abandoned,NGN,NULL,NULL
+550,abandoned,NGN,NULL,NULL
+551,abandoned,USD,US,"Dollar transactions with foreign card"
+552,success,NGN,NG,"Naira transactions with Naira card"
+553,failed,NGN,NULL,NULL
+554,success,NGN,NG,"Naira transactions with Naira card"
+555,abandoned,NGN,NULL,NULL
+556,success,NGN,NG,"Naira transactions with Naira card"
+557,abandoned,NGN,NULL,NULL
+558,abandoned,NGN,NULL,NULL
+559,success,USD,US,"Dollar transactions with foreign card"
+560,abandoned,NGN,NULL,NULL
+561,success,NGN,NG,"Naira transactions with Naira card"
+562,abandoned,NGN,NULL,NULL
+563,failed,USD,US,"Dollar transactions with foreign card"
+564,abandoned,USD,NULL,NULL
+565,abandoned,NGN,NULL,NULL
+566,failed,NGN,NG,"Naira transactions with Naira card"
+567,abandoned,NGN,NULL,NULL
+568,success,NGN,NG,"Naira transactions with Naira card"
+569,failed,NGN,GB,"Naira transactions with foreign card"
+570,abandoned,USD,NULL,NULL
+571,success,NGN,NG,"Naira transactions with Naira card"
+572,abandoned,NGN,NULL,NULL
+573,abandoned,USD,NULL,NULL
+574,abandoned,NGN,NULL,NULL
+575,success,USD,US,"Dollar transactions with foreign card"
+576,abandoned,USD,NULL,NULL
+577,abandoned,USD,FR,"Dollar transactions with foreign card"
+578,failed,NGN,NG,"Naira transactions with Naira card"
+579,success,NGN,GB,"Naira transactions with foreign card"
+580,abandoned,USD,NULL,NULL
+581,failed,NGN,NG,"Naira transactions with Naira card"
+582,abandoned,NGN,NULL,NULL
+583,success,NGN,NG,"Naira transactions with Naira card"
+584,success,NGN,NG,"Naira transactions with Naira card"
+585,abandoned,USD,NULL,NULL
+586,abandoned,NGN,NULL,NULL
+587,abandoned,NGN,NULL,NULL
+588,success,NGN,NG,"Naira transactions with Naira card"
+589,success,NGN,NG,"Naira transactions with Naira card"
+590,success,NGN,NG,"Naira transactions with Naira card"
+591,failed,NGN,NG,"Naira transactions with Naira card"
+592,abandoned,NGN,NULL,NULL
+593,success,NGN,NG,"Naira transactions with Naira card"
+594,abandoned,NGN,NG,"Naira transactions with Naira card"
+595,abandoned,NGN,NULL,NULL
+596,success,NGN,NG,"Naira transactions with Naira card"
+597,abandoned,NGN,NULL,NULL
+598,success,NGN,NG,"Naira transactions with Naira card"
+599,success,NGN,NG,"Naira transactions with Naira card"
+600,abandoned,NGN,NULL,NULL
+601,abandoned,NGN,NULL,NULL
+602,success,NGN,NG,"Naira transactions with Naira card"
+603,abandoned,NGN,NULL,NULL
+604,abandoned,NGN,NULL,NULL
+605,success,NGN,NG,"Naira transactions with Naira card"
+606,abandoned,NGN,NULL,NULL
+607,failed,NGN,NG,"Naira transactions with Naira card"
+608,success,NGN,NG,"Naira transactions with Naira card"
+609,failed,USD,US,"Dollar transactions with foreign card"
+610,success,NGN,NG,"Naira transactions with Naira card"
+611,success,NGN,NG,"Naira transactions with Naira card"
+612,abandoned,NGN,NG,"Naira transactions with Naira card"
+613,abandoned,NGN,NULL,NULL
+614,failed,NGN,NG,"Naira transactions with Naira card"
+615,success,NGN,NG,"Naira transactions with Naira card"
+616,success,NGN,NG,"Naira transactions with Naira card"
+617,success,NGN,NG,"Naira transactions with Naira card"
+618,abandoned,NGN,NULL,NULL
+619,success,NGN,NG,"Naira transactions with Naira card"
+620,abandoned,NGN,NULL,NULL
+621,abandoned,NGN,NULL,NULL
+622,abandoned,USD,GB,"Dollar transactions with foreign card"
+623,abandoned,NGN,NULL,NULL
+624,abandoned,NGN,NULL,NULL
+625,success,NGN,NG,"Naira transactions with Naira card"
+626,success,NGN,NG,"Naira transactions with Naira card"
+627,abandoned,NGN,NULL,NULL
+628,abandoned,USD,US,"Dollar transactions with foreign card"
+629,failed,NGN,GB,"Naira transactions with foreign card"
+630,abandoned,NGN,NULL,NULL
+631,abandoned,NGN,NULL,NULL
+632,abandoned,NGN,NULL,NULL
+633,success,NGN,NG,"Naira transactions with Naira card"
+634,abandoned,NGN,NULL,NULL
+635,success,NGN,NG,"Naira transactions with Naira card"
+636,abandoned,NGN,NULL,NULL
+637,failed,NGN,NG,"Naira transactions with Naira card"
+638,success,NGN,NG,"Naira transactions with Naira card"
+639,success,NGN,NG,"Naira transactions with Naira card"
+640,failed,NGN,NG,"Naira transactions with Naira card"
+641,success,NGN,NG,"Naira transactions with Naira card"
+642,abandoned,USD,NULL,NULL
+643,abandoned,NGN,NULL,NULL
+644,success,NGN,NG,"Naira transactions with Naira card"
+645,success,NGN,NG,"Naira transactions with Naira card"
+646,failed,NGN,NG,"Naira transactions with Naira card"
+647,abandoned,NGN,NULL,NULL
+648,success,NGN,NG,"Naira transactions with Naira card"
+649,abandoned,NGN,NULL,NULL
+650,abandoned,NGN,NULL,NULL
+651,success,NGN,NG,"Naira transactions with Naira card"
+652,success,NGN,NG,"Naira transactions with Naira card"
+653,abandoned,NGN,NULL,NULL
+654,success,NGN,NG,"Naira transactions with Naira card"
+655,abandoned,NGN,NG,"Naira transactions with Naira card"
+656,success,NGN,NG,"Naira transactions with Naira card"
+657,abandoned,NGN,NULL,NULL
+658,success,NGN,NG,"Naira transactions with Naira card"
+659,success,NGN,NG,"Naira transactions with Naira card"
+660,success,NGN,NG,"Naira transactions with Naira card"
+661,success,NGN,NG,"Naira transactions with Naira card"
+662,success,NGN,NG,"Naira transactions with Naira card"
+663,failed,NGN,NG,"Naira transactions with Naira card"
+664,abandoned,NGN,NULL,NULL
+665,abandoned,USD,US,"Dollar transactions with foreign card"
+666,abandoned,NGN,NULL,NULL
+667,success,NGN,NG,"Naira transactions with Naira card"
+668,abandoned,NGN,NULL,NULL
+669,failed,USD,US,"Dollar transactions with foreign card"
+670,success,NGN,NG,"Naira transactions with Naira card"
+671,success,NGN,NG,"Naira transactions with Naira card"
+672,success,NGN,NG,"Naira transactions with Naira card"
+673,abandoned,NGN,NULL,NULL
+674,success,NGN,NG,"Naira transactions with Naira card"
+675,failed,USD,US,"Dollar transactions with foreign card"
+676,success,NGN,NG,"Naira transactions with Naira card"
+677,success,NGN,NG,"Naira transactions with Naira card"
+678,failed,NGN,NG,"Naira transactions with Naira card"
+679,success,NGN,NG,"Naira transactions with Naira card"
+680,abandoned,NGN,NULL,NULL
+681,success,NGN,NG,"Naira transactions with Naira card"
+682,abandoned,NGN,NULL,NULL
+683,failed,NGN,NG,"Naira transactions with Naira card"
+684,success,NGN,NG,"Naira transactions with Naira card"
+685,failed,NGN,CA,"Naira transactions with foreign card"
+686,success,NGN,NG,"Naira transactions with Naira card"
+687,failed,NGN,NG,"Naira transactions with Naira card"
+688,abandoned,NGN,NULL,NULL
+689,success,NGN,NG,"Naira transactions with Naira card"
+690,success,NGN,NG,"Naira transactions with Naira card"
+691,abandoned,NGN,NULL,NULL
+692,abandoned,USD,NULL,NULL
+693,success,NGN,NG,"Naira transactions with Naira card"
+694,success,NGN,NG,"Naira transactions with Naira card"
+695,abandoned,NGN,NULL,NULL
+696,success,NGN,NG,"Naira transactions with Naira card"
+697,success,USD,UA,"Dollar transactions with foreign card"
+698,abandoned,NGN,NULL,NULL
+699,abandoned,NGN,NULL,NULL
+700,abandoned,NGN,NG,"Naira transactions with Naira card"
+701,success,USD,GB,"Dollar transactions with foreign card"
+702,success,NGN,NG,"Naira transactions with Naira card"
+703,success,NGN,NG,"Naira transactions with Naira card"
+704,abandoned,NGN,NULL,NULL
+705,success,NGN,NG,"Naira transactions with Naira card"
+706,abandoned,NGN,NULL,NULL
+707,success,NGN,NG,"Naira transactions with Naira card"
+708,abandoned,NGN,NULL,NULL
+709,abandoned,USD,NULL,NULL
+710,success,NGN,NG,"Naira transactions with Naira card"
+711,abandoned,NGN,NULL,NULL
+712,success,NGN,NG,"Naira transactions with Naira card"
+713,abandoned,NGN,NULL,NULL
+714,abandoned,NGN,NULL,NULL
+715,abandoned,NGN,NULL,NULL
+716,success,NGN,NG,"Naira transactions with Naira card"
+717,abandoned,NGN,NULL,NULL
+718,success,NGN,NG,"Naira transactions with Naira card"
+719,abandoned,NGN,NULL,NULL
+720,success,NGN,NG,"Naira transactions with Naira card"
+721,abandoned,NGN,NULL,NULL
+722,reversed,NGN,NG,"Naira transactions with Naira card"
+723,success,NGN,NG,"Naira transactions with Naira card"
+724,failed,NGN,NG,"Naira transactions with Naira card"
+725,abandoned,NGN,NULL,NULL
+726,abandoned,NGN,NULL,NULL
+727,abandoned,NGN,NULL,NULL
+728,failed,NGN,NG,"Naira transactions with Naira card"
+729,success,NGN,NG,"Naira transactions with Naira card"
+730,abandoned,USD,NULL,NULL
+731,success,NGN,NG,"Naira transactions with Naira card"
+732,abandoned,NGN,NULL,NULL
+733,success,NGN,NG,"Naira transactions with Naira card"
+734,success,NGN,NG,"Naira transactions with Naira card"
+735,abandoned,NGN,NULL,NULL
+736,abandoned,NGN,NULL,NULL
+737,success,NGN,NG,"Naira transactions with Naira card"
+738,abandoned,NGN,NULL,NULL
+739,success,NGN,NG,"Naira transactions with Naira card"
+740,abandoned,NGN,NULL,NULL
+741,failed,NGN,NG,"Naira transactions with Naira card"
+742,abandoned,NGN,NULL,NULL
+743,abandoned,NGN,NULL,NULL
+744,success,NGN,NG,"Naira transactions with Naira card"
+745,failed,NGN,GB,"Naira transactions with foreign card"
+746,abandoned,NGN,NULL,NULL
+747,abandoned,NGN,NULL,NULL
+748,abandoned,NGN,NULL,NULL
+749,success,USD,GB,"Dollar transactions with foreign card"
+750,abandoned,NGN,NULL,NULL
+751,abandoned,NGN,NULL,NULL
+752,abandoned,USD,NULL,NULL
+753,failed,NGN,US,"Naira transactions with foreign card"
+754,success,NGN,NG,"Naira transactions with Naira card"
+755,abandoned,NGN,NULL,NULL
+756,success,NGN,NG,"Naira transactions with Naira card"
+757,success,NGN,NG,"Naira transactions with Naira card"
+758,abandoned,NGN,NULL,NULL
+759,success,NGN,NG,"Naira transactions with Naira card"
+760,abandoned,USD,US,"Dollar transactions with foreign card"
+761,failed,NGN,GB,"Naira transactions with foreign card"
+762,abandoned,NGN,NULL,NULL
+763,failed,NGN,NG,"Naira transactions with Naira card"
+764,failed,NGN,NG,"Naira transactions with Naira card"
+765,abandoned,USD,NULL,NULL
+766,abandoned,NGN,NULL,NULL
+767,success,NGN,NG,"Naira transactions with Naira card"
+768,abandoned,USD,US,"Dollar transactions with foreign card"
+769,success,NGN,NG,"Naira transactions with Naira card"
+770,abandoned,NGN,NULL,NULL
+771,abandoned,USD,US,"Dollar transactions with foreign card"
+772,success,NGN,NG,"Naira transactions with Naira card"
+773,abandoned,NGN,NULL,NULL
+774,abandoned,NGN,NULL,NULL
+775,success,NGN,NG,"Naira transactions with Naira card"
+776,success,NGN,NG,"Naira transactions with Naira card"
+777,abandoned,NGN,NULL,NULL
+778,success,NGN,NG,"Naira transactions with Naira card"
+779,success,NGN,NG,"Naira transactions with Naira card"
+780,success,NGN,NG,"Naira transactions with Naira card"
+781,abandoned,NGN,NULL,NULL
+782,reversed,NGN,NG,"Naira transactions with Naira card"
+783,abandoned,NGN,NULL,NULL
+784,success,NGN,NG,"Naira transactions with Naira card"
+785,abandoned,NGN,NULL,NULL
+786,failed,NGN,NG,"Naira transactions with Naira card"
+787,abandoned,USD,NULL,NULL
+788,abandoned,USD,NULL,NULL
+789,abandoned,USD,NULL,NULL
+790,success,NGN,NG,"Naira transactions with Naira card"
+791,abandoned,NGN,NULL,NULL
+792,success,USD,CA,"Dollar transactions with foreign card"
+793,success,NGN,NG,"Naira transactions with Naira card"
+794,abandoned,USD,NULL,NULL
+795,success,NGN,NG,"Naira transactions with Naira card"
+796,success,USD,GB,"Dollar transactions with foreign card"
+797,abandoned,NGN,NG,"Naira transactions with Naira card"
+798,abandoned,NGN,GB,"Naira transactions with foreign card"
+799,success,NGN,NG,"Naira transactions with Naira card"
+800,abandoned,NGN,NULL,NULL
+801,success,NGN,NG,"Naira transactions with Naira card"
+802,abandoned,NGN,NULL,NULL
+803,abandoned,NGN,NULL,NULL
+804,abandoned,NGN,NULL,NULL
+805,abandoned,USD,US,"Dollar transactions with foreign card"
+806,success,NGN,GB,"Naira transactions with foreign card"
+807,abandoned,NGN,NULL,NULL
+808,abandoned,NGN,NULL,NULL
+809,success,NGN,NG,"Naira transactions with Naira card"
+810,success,NGN,NG,"Naira transactions with Naira card"
+811,abandoned,NGN,NG,"Naira transactions with Naira card"
+812,abandoned,NGN,NULL,NULL
+813,success,NGN,NG,"Naira transactions with Naira card"
+814,success,NGN,NG,"Naira transactions with Naira card"
+815,abandoned,USD,NULL,NULL
+816,abandoned,NGN,NG,"Naira transactions with Naira card"
+817,success,NGN,NG,"Naira transactions with Naira card"
+818,abandoned,USD,NULL,NULL
+819,abandoned,NGN,NULL,NULL
+820,abandoned,USD,FR,"Dollar transactions with foreign card"
+821,abandoned,NGN,NULL,NULL
+822,success,NGN,NG,"Naira transactions with Naira card"
+823,failed,NGN,NG,"Naira transactions with Naira card"
+824,abandoned,NGN,NULL,NULL
+825,abandoned,NGN,NULL,NULL
+826,failed,USD,US,"Dollar transactions with foreign card"
+827,success,NGN,NG,"Naira transactions with Naira card"
+828,abandoned,NGN,NULL,NULL
+829,success,NGN,NG,"Naira transactions with Naira card"
+830,abandoned,NGN,NULL,NULL
+831,abandoned,NGN,NULL,NULL
+832,success,USD,US,"Dollar transactions with foreign card"
+833,success,NGN,NG,"Naira transactions with Naira card"
+834,abandoned,USD,US,"Dollar transactions with foreign card"
+835,abandoned,NGN,NULL,NULL
+836,failed,NGN,NG,"Naira transactions with Naira card"
+837,failed,NGN,NG,"Naira transactions with Naira card"
+838,success,NGN,NG,"Naira transactions with Naira card"
+839,success,NGN,NG,"Naira transactions with Naira card"
+840,abandoned,USD,NULL,NULL
+841,abandoned,NGN,NULL,NULL
+842,abandoned,NGN,NULL,NULL
+843,abandoned,NGN,NULL,NULL
+844,abandoned,NGN,NULL,NULL
+845,failed,NGN,NG,"Naira transactions with Naira card"
+846,abandoned,NGN,NULL,NULL
+847,success,NGN,NG,"Naira transactions with Naira card"
+848,abandoned,NGN,NULL,NULL
+849,success,NGN,NG,"Naira transactions with Naira card"
+850,failed,NGN,NG,"Naira transactions with Naira card"
+851,abandoned,NGN,NULL,NULL
+852,success,NGN,NG,"Naira transactions with Naira card"
+853,abandoned,NGN,NULL,NULL
+854,success,NGN,NG,"Naira transactions with Naira card"
+855,abandoned,USD,NULL,NULL
+856,abandoned,NGN,NULL,NULL
+857,failed,NGN,NG,"Naira transactions with Naira card"
+858,failed,NGN,NG,"Naira transactions with Naira card"
+859,success,NGN,NG,"Naira transactions with Naira card"
+860,success,NGN,NG,"Naira transactions with Naira card"
+861,success,NGN,NG,"Naira transactions with Naira card"
+862,success,NGN,NG,"Naira transactions with Naira card"
+863,abandoned,NGN,NULL,NULL
+864,abandoned,NGN,NG,"Naira transactions with Naira card"
+865,success,NGN,US,"Naira transactions with foreign card"
+866,success,USD,GB,"Dollar transactions with foreign card"
+867,success,NGN,NG,"Naira transactions with Naira card"
+868,success,NGN,NG,"Naira transactions with Naira card"
+869,success,USD,GB,"Dollar transactions with foreign card"
+870,abandoned,USD,NULL,NULL
+871,abandoned,NGN,NULL,NULL
+872,abandoned,NGN,NULL,NULL
+873,success,NGN,NG,"Naira transactions with Naira card"
+874,failed,NGN,NG,"Naira transactions with Naira card"
+875,abandoned,NGN,NULL,NULL
+876,success,NGN,NG,"Naira transactions with Naira card"
+877,abandoned,NGN,NULL,NULL
+878,abandoned,NGN,NULL,NULL
+879,abandoned,NGN,NULL,NULL
+880,failed,USD,US,"Dollar transactions with foreign card"
+881,success,NGN,NG,"Naira transactions with Naira card"
+882,success,NGN,NG,"Naira transactions with Naira card"
+883,failed,NGN,US,"Naira transactions with foreign card"
+884,success,NGN,NG,"Naira transactions with Naira card"
+885,abandoned,USD,US,"Dollar transactions with foreign card"
+886,success,NGN,NG,"Naira transactions with Naira card"
+887,success,NGN,NG,"Naira transactions with Naira card"
+888,success,NGN,NG,"Naira transactions with Naira card"
+889,abandoned,NGN,NULL,NULL
+890,success,NGN,NG,"Naira transactions with Naira card"
+891,success,USD,GB,"Dollar transactions with foreign card"
+892,success,USD,CM,"Dollar transactions with foreign card"
+893,abandoned,NGN,NULL,NULL
+894,abandoned,NGN,NULL,NULL
+895,abandoned,NGN,NULL,NULL
+896,abandoned,NGN,NULL,NULL
+897,abandoned,NGN,NULL,NULL
+898,abandoned,USD,NULL,NULL
+899,abandoned,NGN,NULL,NULL
+900,success,NGN,NG,"Naira transactions with Naira card"
+901,success,NGN,NG,"Naira transactions with Naira card"
+902,success,NGN,NG,"Naira transactions with Naira card"
+903,success,USD,GB,"Dollar transactions with foreign card"
+904,success,NGN,NG,"Naira transactions with Naira card"
+905,abandoned,NGN,GB,"Naira transactions with foreign card"
+906,success,NGN,NG,"Naira transactions with Naira card"
+907,success,NGN,US,"Naira transactions with foreign card"
+908,reversed,NGN,NG,"Naira transactions with Naira card"
+909,success,USD,GB,"Dollar transactions with foreign card"
+910,success,NGN,NG,"Naira transactions with Naira card"
+911,success,NGN,NG,"Naira transactions with Naira card"
+912,success,NGN,NG,"Naira transactions with Naira card"
+913,success,NGN,NG,"Naira transactions with Naira card"
+914,abandoned,USD,NULL,NULL
+915,success,NGN,NG,"Naira transactions with Naira card"
+916,success,NGN,NG,"Naira transactions with Naira card"
+917,success,NGN,NG,"Naira transactions with Naira card"
+918,abandoned,NGN,NULL,NULL
+919,success,NGN,NG,"Naira transactions with Naira card"
+920,abandoned,NGN,NULL,NULL
+921,failed,NGN,NG,"Naira transactions with Naira card"
+922,success,NGN,NULL,NULL
+923,abandoned,NGN,NULL,NULL
+924,abandoned,NGN,NULL,NULL
+925,success,NGN,NG,"Naira transactions with Naira card"
+926,failed,NGN,NG,"Naira transactions with Naira card"
+927,abandoned,NGN,NULL,NULL
+928,abandoned,NGN,NULL,NULL
+929,abandoned,NGN,NULL,NULL
+930,success,NGN,NG,"Naira transactions with Naira card"
+931,abandoned,NGN,NULL,NULL
+932,abandoned,NGN,NULL,NULL
+933,abandoned,NGN,NULL,NULL
+934,abandoned,NGN,NULL,NULL
+935,abandoned,NGN,NULL,NULL
+936,success,NGN,NULL,NULL
+937,failed,USD,NG,"Dollar transactions with Naira card"
+938,failed,NGN,NG,"Naira transactions with Naira card"
+939,success,NGN,NG,"Naira transactions with Naira card"
+940,success,USD,US,"Dollar transactions with foreign card"
+941,failed,USD,US,"Dollar transactions with foreign card"
+942,success,NGN,NG,"Naira transactions with Naira card"
+943,success,NGN,NG,"Naira transactions with Naira card"
+944,success,NGN,GB,"Naira transactions with foreign card"
+945,success,NGN,NG,"Naira transactions with Naira card"
+946,abandoned,NGN,NG,"Naira transactions with Naira card"
+947,success,NGN,NG,"Naira transactions with Naira card"
+948,abandoned,USD,NULL,NULL
+949,success,NGN,NG,"Naira transactions with Naira card"
+950,abandoned,NGN,NULL,NULL
+951,success,NGN,NG,"Naira transactions with Naira card"
+952,abandoned,NGN,NULL,NULL
+953,failed,NGN,NG,"Naira transactions with Naira card"
+954,abandoned,NGN,NULL,NULL
+955,abandoned,NGN,NULL,NULL
+956,failed,NGN,NG,"Naira transactions with Naira card"
+957,success,USD,US,"Dollar transactions with foreign card"
+958,abandoned,USD,NULL,NULL
+959,abandoned,NGN,NULL,NULL
+960,abandoned,NGN,NG,"Naira transactions with Naira card"
+961,failed,NGN,NG,"Naira transactions with Naira card"
+962,success,USD,GB,"Dollar transactions with foreign card"
+963,success,NGN,NG,"Naira transactions with Naira card"
+964,abandoned,NGN,NULL,NULL
+965,abandoned,USD,NULL,NULL
+966,success,NGN,NG,"Naira transactions with Naira card"
+967,abandoned,NGN,NULL,NULL
+968,success,NGN,NG,"Naira transactions with Naira card"
+969,success,NGN,NG,"Naira transactions with Naira card"
+970,abandoned,USD,US,"Dollar transactions with foreign card"
+971,success,NGN,IN,"Naira transactions with foreign card"
+972,abandoned,NGN,NG,"Naira transactions with Naira card"
+973,failed,NGN,US,"Naira transactions with foreign card"
+974,success,NGN,GB,"Naira transactions with foreign card"
+975,success,NGN,NG,"Naira transactions with Naira card"
+976,abandoned,USD,NULL,NULL
+977,abandoned,NGN,NULL,NULL
+978,abandoned,NGN,NULL,NULL
+979,failed,NGN,NG,"Naira transactions with Naira card"
+980,abandoned,NGN,NULL,NULL
+981,abandoned,NGN,NULL,NULL
+982,abandoned,USD,US,"Dollar transactions with foreign card"
+983,success,NGN,NG,"Naira transactions with Naira card"
+984,success,NGN,NG,"Naira transactions with Naira card"
+985,failed,NGN,NG,"Naira transactions with Naira card"
+986,abandoned,NGN,NULL,NULL
+987,success,NGN,NG,"Naira transactions with Naira card"
+988,abandoned,NGN,NULL,NULL
+989,success,NGN,NG,"Naira transactions with Naira card"
+990,success,NGN,NG,"Naira transactions with Naira card"
+991,abandoned,NGN,NULL,NULL
+992,success,NGN,NG,"Naira transactions with Naira card"
+993,success,NGN,NG,"Naira transactions with Naira card"
+994,failed,NGN,NG,"Naira transactions with Naira card"
+995,success,NGN,NG,"Naira transactions with Naira card"
+996,success,USD,GB,"Dollar transactions with foreign card"
+997,abandoned,NGN,NULL,NULL
+998,success,NGN,NG,"Naira transactions with Naira card"
+999,success,NGN,NG,"Naira transactions with Naira card"
+1000,abandoned,NGN,NULL,NULL
